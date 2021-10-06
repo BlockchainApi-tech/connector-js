@@ -21,18 +21,12 @@
 ## Install
 
 ```sh
-npm install
-```
-
-## Run tests
-
-```sh
-npm run test
+npm install @blockchain-api/connector-js
 ```
 
 ## Author
 
-👤 **Tran Huy Duan <duanthse03268@gmail.com> (https://github.com/DuanTranHuy)**
+👤 **Tran Huy Duan (https://github.com/DuanTranHuy)**
 
 * Github: [@BlockchainApi-tech](https://github.com/BlockchainApi-tech)
 
